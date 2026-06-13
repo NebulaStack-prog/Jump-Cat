@@ -3,9 +3,9 @@
 A short memory game about a cat who keeps jumping forward.
 
 ## 💻 Project Run
-- Open with Python: [Jump_Cat.py](JumpCat.py)
+- Download this file: [Jump_Cat.c3p](JumpCat.c3p)
   
-- Or download exe: [Jump_Cat.exe]()
+- And open with Construct 3: [Construct_3_link](editor.construct.net)
 
 ## 📄 Full Documentation
 - 🇷🇺  Russian version: [Documentation](JumpCat_RU.md)
