@@ -1,5 +1,7 @@
 # Jump Cat
 
+<img src="https://github.com/NebulaStack-prog/Jump-Cat/raw/main/IMG_20260701_020320_413.jpg" width="200" height="230">
+
 A short memory game about a cat who keeps jumping forward.
 
 ## 💻 Project Run
