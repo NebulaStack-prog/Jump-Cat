@@ -7,7 +7,7 @@
 ## 💻 Project Run
 - Download this file: [Jump_Cat.c3p](JumpCat.c3p)
   
-- And open with Construct 3: [Construct_3_link](https://editor.construct.net)
+- And open with Construct 3: [Link...](https://editor.construct.net)
 
 ## 📄 Full Documentation
 - 🇷🇺  Russian version: [Documentation](JumpCat_RU.md)
