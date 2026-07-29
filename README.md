@@ -15,7 +15,8 @@
 - 🇺🇲  English version: [Documentation](JumpCat_EN.md)
   
 ## 📷 Screenshots
-![]()
-![]()
+![](Jump_Cat_1.png)
+![](Jump_Cat_3.png)
+![](Jump_Cat_2.png)
 
 © NebulaStack
