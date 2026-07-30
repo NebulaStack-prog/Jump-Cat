@@ -5,7 +5,7 @@
 > A short memory game about a cat who keeps jumping forward.
 
 ## 💻 Project Run
-- Download this file: [Jump_Cat.c3p](JumpCat.c3p)
+- Download this file: [Jump_Cat.c3p](Jump_Cat.c3p)
   
 - And open with Construct 3: [Link...](https://editor.construct.net)
 
